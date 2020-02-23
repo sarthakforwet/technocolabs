@@ -1,0 +1,1 @@
+Basically git is a software made by the Unix distributors for helping out the developers and especially the team of developers to communicate easily and more efficiently without having the tension to think about the management of their code and the affect of new functionalities on the software they are building and how to go to the previous state.
