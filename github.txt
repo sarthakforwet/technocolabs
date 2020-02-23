@@ -1,0 +1,1 @@
+Basically github is a software that is helping developers to store their code on github's cloud server in a convienient manner than before . It has tools that helps us perform the various complex commands of git easily and successfully. 
